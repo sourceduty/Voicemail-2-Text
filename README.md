@@ -13,3 +13,6 @@ This service is similar to text-to-landline services.
 ## NOTE
 
 Reading 300 words takes an average time of one minute to complete. Listening takes 150 per minute.
+
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
